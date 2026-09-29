@@ -1,45 +1,45 @@
 Para identificar quais as respectivas responsabilidades de cada função, confira o [[Glossário]].
 ### Comandantes e Profissionais Gerais
-|          |      Nome       |         Função          |    Origem     | Destino¹ |
-| -------: | :-------------: | :---------------------: | :-----------: | :------: |
-|  ***1*** | Robert Wittered |         Capitão         |  Inglaterra   |          |
-|  ***2*** | Willian Hoscut  |    Primeiro Oficial     |    Escócia    |          |
-|  ***3*** | Edward Nichols  |     Segundo Oficial     |  Inglaterra   |          |
-|  ***4*** | Martin Perrott  |    Terceiro Oficial     |  Inglaterra   |          |
-|  ***5*** |   John Davies   |     Quarto Oficial      |  Inglaterra   |          |
-|  ***6*** | Alfred Klestil  |      Contramestre       |    Áustria    |          |
-|  ***7*** |  Charles Miner  |  Aux. do Contramestre   |    França     |          |
-|  ***8*** |   Henry Evans   |        Cirurgião        |  Inglaterra   |          |
-|  ***9*** |  James Wallace  |        Enfemeiro        |  Inglaterra   |          |
-| ***10*** |  Winston Smith  |       Carpinteiro       | América (EUA) |          |
-| ***11*** |  Marcus Gibbs   | Auxiliar de Carpintaria | América (EUA) |          |
-| ***12*** |  Thomas Sefton  |       Cozinheiro        |  Inglaterra   |          |
-| ***13*** | Emil O' Farrell |       Açougueiro        |    Irlanda    |          |
-| ***14*** | Christian Wolff |     Mestre Armeiro      |    Áustria    |          |
-| ***15*** |   Olus Wiater   |   Auxiliar de Armaria   |    Polônia    |          |
-| ***16*** |  Duncan McKay   |        Contador         |    Escócia    |          |
-| ***17*** |  Finley Dalton  |        Timoneiro        |  Inglaterra   |          |
-| ***18*** |  Edward Spratt  |         Artista         |  Inglaterra   |          |
+|          |      Nome       |         Função          |    Origem     |       Destino¹       |
+| -------: | :-------------: | :---------------------: | :-----------: | :------------------: |
+|  ***1*** | Robert Witterel |         Capitão         |  Inglaterra   |  Suícidio por arma   |
+|  ***2*** | Willian Hoscut  |    Primeiro Oficial     |    Escócia    | Baleado pelo Capitão |
+|  ***3*** | Edward Nichols  |     Segundo Oficial     |  Inglaterra   |                      |
+|  ***4*** | Martin Perrott  |    Terceiro Oficial     |  Inglaterra   |                      |
+|  ***5*** |   John Davies   |     Quarto Oficial      |  Inglaterra   |                      |
+|  ***6*** | Alfred Klestil  |      Contramestre       |    Áustria    |                      |
+|  ***7*** |  Charles Miner  |  Aux. do Contramestre   |    França     |                      |
+|  ***8*** |   Henry Evans   |        Cirurgião        |  Inglaterra   |                      |
+|  ***9*** |  James Wallace  |        Enfemeiro        |  Inglaterra   |                      |
+| ***10*** |  Winston Smith  |       Carpinteiro       | América (EUA) |                      |
+| ***11*** |  Marcus Gibbs   | Auxiliar de Carpintaria | América (EUA) |                      |
+| ***12*** |  Thomas Sefton  |       Cozinheiro        |  Inglaterra   |                      |
+| ***13*** | Emil O' Farrell |       Açougueiro        |    Irlanda    |                      |
+| ***14*** | Christian Wolff |     Mestre Armeiro      |    Áustria    |                      |
+| ***15*** |   Olus Wiater   |   Auxiliar de Armaria   |    Polônia    |                      |
+| ***16*** |  Duncan McKay   |        Contador         |    Escócia    |                      |
+| ***17*** |  Finley Dalton  |        Timoneiro        |  Inglaterra   |                      |
+| ***18*** |  Edward Spratt  |         Artista         |  Inglaterra   |                      |
 ### Passageiros
-|     |          Nome           |   Função   |    Origem    | Destino¹ |
-| --: | :---------------------: | :--------: | :----------: | :------: |
-|  ***19*** | Abigail Hoscut Witterel | Passageira |   Escócia    |          |
-|  ***20*** |      Nunzio Pasqua      | Passageiro |    Itália    |          |
-|  ***21*** |      Emily Jackson      | Passageira |  Inglaterra  |          |
-|  ***22*** |     Srta. Jane Bird     | Passageira |  Inglaterra  |          |
-|  ***23*** |       Bun-Lan Lim       | Passageira | Ilha Formosa |          |
-|  ***24*** |       It-Beng Sia       | Passageiro | Ilha Formosa |          |
-|  ***25*** |        Chioh Tan        | Passageiro | Ilha Formosa |          |
-|  ***26*** |      Hok-Seng Lau       | Passageiro | Ilha Formosa |          |
+|          |          Nome           |   Função   |    Origem    |      Destino¹       |
+| -------: | :---------------------: | :--------: | :----------: | :-----------------: |
+| ***19*** | Abigail Hoscut Witterel | Passageira |   Escócia    | Esmagada por mastro |
+| ***20*** |      Nunzio Pasqua      | Passageiro |    Itália    |                     |
+| ***21*** |      Emily Jackson      | Passageira |  Inglaterra  |                     |
+| ***22*** |     Srta. Jane Bird     | Passageira |  Inglaterra  |                     |
+| ***23*** |       Bun-Lan Lim       | Passageira | Ilha Formosa |                     |
+| ***24*** |       It-Beng Sia       | Passageiro | Ilha Formosa |                     |
+| ***25*** |        Chioh Tan        | Passageiro | Ilha Formosa |                     |
+| ***26*** |      Hok-Seng Lau       | Passageiro | Ilha Formosa |                     |
 ### Comissários
-|     |       Nome        |          Função          |    Origem     | Destino¹ |
-| --: | :---------------: | :----------------------: | :-----------: | :------: |
-|  ***27*** |    Zungi Sathi    |   Comissário de Bordo    |     Índia     |          |
-|  ***28*** |    Filip Dahl     |  Comissário do Capitão   |    Suécia     |          |
-|  ***29*** |     Paul Moss     | Comissário do 1º Oficial | País de Gales |          |
-|  ***30*** |  Samuel Galligan  | Comissário do 2º Oficial |    Irlanda    |          |
-|  ***31*** | Roderick Andersen | Comissário do 3º Oficial |  Inglaterra   |          |
-|  ***32*** |    Davey James    | Comissário do 4º Oficial |  Inglaterra   |          |
+|          |       Nome        |          Função          |    Origem     | Destino¹ |
+| -------: | :---------------: | :----------------------: | :-----------: | :------: |
+| ***27*** |    Zungi Sathi    |   Comissário de Bordo    |     Índia     |          |
+| ***28*** |    Filip Dahl     |  Comissário do Capitão   |    Suécia     |          |
+| ***29*** |     Paul Moss     | Comissário do 1º Oficial | País de Gales |          |
+| ***30*** |  Samuel Galligan  | Comissário do 2º Oficial |    Irlanda    |          |
+| ***31*** | Roderick Andersen | Comissário do 3º Oficial |  Inglaterra   |          |
+| ***32*** |    Davey James    | Comissário do 4º Oficial |  Inglaterra   |          |
 ### Aspirantes
 |     |       Nome       |  Função   |   Origem   | Destino¹ |
 | --: | :--------------: | :-------: | :--------: | :------: |
@@ -77,6 +77,15 @@ Para identificar quais as respectivas responsabilidades de cada função, confir
 | ***58*** | Patrick O'Hagan  | Marujo |    Irlanda    |          |
 | ***59*** |  George Shirley  | Marujo |  Inglaterra   |          |
 | ***60*** |  Samuel Peters   | Marujo |  Inglaterra   |          |
+
+<center><h3>Ilustrações da Tripulação</h3></center>
+
+#### Em Viagem
+![[em viagem.png|768]]
+#### Realeza de Formosa
+![[realeza de formosa.png|768]]
+#### Justiça em Alto Mar
+![[justiça em alto mar.png|768]]
 
 ---
 [^1]: Qual fim teve este tripulante.

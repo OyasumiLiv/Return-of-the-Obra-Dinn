@@ -1,5 +1,5 @@
 {
-  "biggerIcons": "on",
+  "biggerIcons": "off",
   "clickableIcons": "on",
   "showAllFileIcons": true,
   "showAllFolderIcons": false,
@@ -23,12 +23,60 @@
   "maxBackups": 2,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Capítulos": {
+      "icon": "lucide-table-of-contents",
+      "color": "#f9b76c"
+    },
+    "Capítulos/I Carregamento Solo.md": {
+      "icon": "1️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/II Um Frio Cruel.md": {
+      "icon": "2️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/III Assassinato.md": {
+      "icon": "3️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/IV O Chamado.md": {
+      "icon": "4️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/IX Fuga.md": {
+      "icon": "9️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/V Prisioneiros Profanos.md": {
+      "icon": "5️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/VI Soldados do Mar.md": {
+      "icon": "6️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/VII A Perdição.md": {
+      "icon": "7️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/VIII Barganha.md": {
+      "icon": "8️⃣",
+      "color": "#3b2a17"
+    },
+    "Capítulos/X Fim.md": {
+      "icon": "🔟",
+      "color": "#3b2a17"
+    },
+    "Glossário.md": {
+      "icon": "lucide-book-a",
+      "color": "#ee6868"
+    },
     "Gêmeos da Ampulheta": {
       "icon": "lucide-eclipse",
       "color": "#87abe8"
@@ -83,8 +131,87 @@
     "Gêmeos da Ampulheta/Imagens": {
       "icon": "lucide-images"
     },
-    "imagens": {
-      "icon": "lucide-images"
+    "Imagens": {
+      "icon": "lucide-images",
+      "color": "#ece9a2"
+    },
+    "Imagens/catalogo.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário": {
+      "color": "#ece9a2",
+      "icon": "lucide-book-a"
+    },
+    "Imagens/glossário/aparelho.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/aspirante.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/bailéu.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/capitão.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/carpinteiro.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/ciurgiao.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/comissário.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/contador.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/contramestre_bosun.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/convés_armas.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/convés_principal.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/marujo.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/mestre armeiro.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/oficial.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/proeiro.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/glossário/timoneiro.png": {
+      "color": "#ece9a2"
+    },
+    "Imagens/prefacio.png": {
+      "color": "#ece9a2"
+    },
+    "LICENSE.md": {
+      "icon": "lucide-book-marked",
+      "color": "#9adab9"
+    },
+    "Premissa.md": {
+      "icon": "lucide-book-open-text",
+      "color": "#ee6868"
+    },
+    "README.md": {
+      "icon": "lucide-book-marked",
+      "color": "#9adab9"
+    },
+    "Tripulantes.md": {
+      "icon": "lucide-user-round",
+      "color": "#ee6868"
+    },
+    "index.md": {
+      "icon": "lucide-book-marked",
+      "color": "#9adab9"
     }
   },
   "bookmarkIcons": {},
@@ -92,18 +219,5 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": [
-    {
-      "id": "hNDOk",
-      "name": "Untitled rule",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains"
-        }
-      ],
-      "enabled": true
-    }
-  ]
+  "folderRules": []
 }

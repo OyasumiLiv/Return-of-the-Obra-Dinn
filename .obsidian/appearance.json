@@ -1,11 +1,13 @@
 {
   "accentColor": "#ff3a61",
-  "cssTheme": "PLN",
+  "cssTheme": "Typewriter",
   "interfaceFontFamily": "Fira Sans",
   "textFontFamily": "Fira Sans",
   "monospaceFontFamily": "Fira Mono",
   "enabledCssSnippets": [
     "Image Align",
     "Center Image"
-  ]
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }

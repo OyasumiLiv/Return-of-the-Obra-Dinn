@@ -1,10 +1,9 @@
 [
-  "advanced-canvas",
-  "better-word-count",
-  "editing-toolbar",
   "iconic",
   "pretty-properties",
+  "advanced-canvas",
+  "better-word-count",
   "custom-sort",
-  "obsidian-view-mode-by-frontmatter",
-  "obsidian-git"
+  "editing-toolbar",
+  "obsidian-view-mode-by-frontmatter"
 ]

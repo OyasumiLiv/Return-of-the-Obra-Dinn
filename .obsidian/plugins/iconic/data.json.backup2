@@ -82,6 +82,9 @@
     },
     "Gêmeos da Ampulheta/Imagens": {
       "icon": "lucide-images"
+    },
+    "imagens": {
+      "icon": "lucide-images"
     }
   },
   "bookmarkIcons": {},

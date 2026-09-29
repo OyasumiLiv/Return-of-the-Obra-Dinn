@@ -13,6 +13,11 @@ sorting-spec: |
   X Fim
   target-folder: /
   index
+  LICENSE
+  README
   Imagens
   Capítulos
+  Premissa
+  Tripulantes
+  Glossário
 ---

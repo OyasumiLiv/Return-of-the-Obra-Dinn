@@ -1,0 +1,48 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "RSVsVCD_I0GFCDIcuRMh3",
+      "name": "Blueish",
+      "value": "#9adab9"
+    },
+    {
+      "id": "kViGTagLeCPNWRSBRdNRM",
+      "name": "Yellowish",
+      "value": "#e1f96c"
+    },
+    {
+      "id": "63VdpLDYXuJHTmqUv5AKD",
+      "name": "Orangeish",
+      "value": "#f9b76c"
+    },
+    {
+      "id": "LYcb9aXqCN9aR_T7btFE8",
+      "name": "Redish",
+      "value": "#ee6868"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "index.md",
+      "color": "RSVsVCD_I0GFCDIcuRMh3"
+    },
+    {
+      "path": "LICENSE.md",
+      "color": "RSVsVCD_I0GFCDIcuRMh3"
+    },
+    {
+      "path": "README.md",
+      "color": "RSVsVCD_I0GFCDIcuRMh3"
+    },
+    {
+      "path": "Imagens",
+      "color": "kViGTagLeCPNWRSBRdNRM"
+    },
+    {
+      "path": "Capítulos",
+      "color": "63VdpLDYXuJHTmqUv5AKD"
+    }
+  ]
+}
