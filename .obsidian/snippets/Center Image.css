@@ -1,0 +1,4 @@
+.center :is(img, .markdown-source-view .cm-content .image-embed) {
+    display: block;
+    margin-inline: auto !important;
+}

@@ -1,0 +1,140 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 100,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Capítulos": {
+      "icon": "lucide-table-of-contents",
+      "color": "#a09683"
+    },
+    "Capítulos/I Carregamento Solo.md": {
+      "icon": "1️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/II Um Frio Cruel.md": {
+      "icon": "2️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/III Assassinato.md": {
+      "icon": "3️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/IV O Chamado.md": {
+      "icon": "4️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/IX Fuga.md": {
+      "icon": "9️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/V Prisioneiros Profanos.md": {
+      "icon": "5️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/VI Soldados do Mar.md": {
+      "icon": "6️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/VII A Perdição.md": {
+      "icon": "7️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/VIII Barganha.md": {
+      "icon": "8️⃣",
+      "color": "#a09683"
+    },
+    "Capítulos/X Fim.md": {
+      "icon": "🔟",
+      "color": "#a09683"
+    },
+    "Gêmeos da Ampulheta": {
+      "icon": "lucide-eclipse",
+      "color": "#87abe8"
+    },
+    "Gêmeos da Ampulheta/0.Gêmeos da Ampulheta.base": {
+      "icon": "lucide-eclipse",
+      "color": "#87abe8"
+    },
+    "Gêmeos da Ampulheta/1. Gêmeo Cálido.md": {
+      "icon": "lucide-eclipse",
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/2. Gêmeo Cinzento.md": {
+      "icon": "lucide-eclipse",
+      "color": "#9a8e7e"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cinzento": {
+      "icon": "lucide-eclipse",
+      "color": "#9a8e7e"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cinzento/Projeto do Gêmeo Cinzento.md": {
+      "color": "#9a8e7e"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cinzento/Torres do Gêmeo Cinzento.md": {
+      "color": "#9a8e7e"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido": {
+      "icon": "lucide-eclipse",
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Acampamento de Cherte.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Caverna do Fundo Seco do Lago.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Cavernas Quânticas.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Cidade do Ocaso.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Cápsula de Escape 2.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Laboratório de Alta Energia.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Gêmeo Cálido/Radar da Lua Quântica.md": {
+      "color": "#d2a26a"
+    },
+    "Gêmeos da Ampulheta/Imagens": {
+      "icon": "lucide-images"
+    },
+    "Imagens": {
+      "icon": "lucide-images"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

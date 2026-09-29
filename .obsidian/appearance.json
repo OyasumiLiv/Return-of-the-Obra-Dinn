@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff3a61",
+  "cssTheme": "PLN",
+  "interfaceFontFamily": "Fira Sans",
+  "textFontFamily": "Fira Sans",
+  "monospaceFontFamily": "Fira Mono",
+  "enabledCssSnippets": [
+    "Image Align",
+    "Center Image"
+  ]
+}
